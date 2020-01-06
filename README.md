@@ -1,6 +1,6 @@
 # Palindromes
 
-A simple palindrome detector. I wrote versions in both python and c# as an excersize.
+A simple palindrome detector. I wrote versions in both python and c# as an exercise.
 
 ## Installation/setup
 
